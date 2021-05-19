@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: #6c6b6b;
+}
+
+header {
+  height: 70px;
+  background-color: #ec715f;
+}
+
+footer {
+  height: 60px;
+  background-color: #ec715f;
+}
+
+.copyright {
+  font-size: 16px;
+  color: #fafafa;
+  text-align: center;
+}
